@@ -19,6 +19,8 @@ Recuerda que los postworks no son obligatorios pero es importante que los realic
 ```bash
 git clone url-repositorio-forkeado-en-tu-cuenta
 
+cd carpeta-clonada
+
 git fetch origin
 
 git checkout rama-asignada

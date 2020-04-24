@@ -1,0 +1,17 @@
+**¿Cuál es la ventaja de que JavaScript sea un lenguaje interpretado-compilado?**
+*Que nos permite realizar una programación más rápida y con respuesta inmediata.*
+
+**¿Cuáles la diferencia entre null y undefined?**
+
+*NULL.* No tiene un valor asignado por el programador; así por ejemplo en operaciones aritméticas, un valor NULL se tomaría como “cero” ya que nosotros no definimos ningún valor hasta el momento.
+*UNDEFINED.* No tiene un valor asignado por la máquina; de tal manera que cuando hacemos una operación aritmética, el valor UNDEFINED no tendrá ningún peso, incluyendo “cero”, es un valor que la máquina no reconoce.
+
+**Explica el concepto de type coercion**
+
+
+**Calcula el valor booleano de las siguientes expresiones lógicas:**
+true && !(false === !Infinity); *TRUE*
+null !== undefined && !""; *UNDEFINED*
+
+**Implementa una función llamada i  sFalsy  que dado cualquier valor como parámetro indica si es falso.**
+No lo logré, lo hice en Visual Studio Code y no esta definida.
